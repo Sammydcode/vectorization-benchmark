@@ -26,7 +26,7 @@ Vectorized operations in NumPy are significantly faster than Python loops becaus
 ## 🚀 How to Run
 
 ```bash
-python main.py
+python vectorization_demo.py
 ```
 
 ## 📁 Files
